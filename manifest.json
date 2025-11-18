@@ -4,7 +4,7 @@
     "description": "Limaje créée par M. CAKPOSSE",
     "icons": [
       {
-        "src": "https:                            
+        "src": "https:",                            
         "sizes": "192x192",
         "type": "image/png"
       },
@@ -16,6 +16,6 @@
     ],
     "start_url": "https://script.google.com/macros/s/AKfycbzJqZjih_s6NKf1dMbMArwK_OcS-fCPcENY_IBYwbc9/dev",
     "display": "standalone",
-    "theme_color": "         
+    "theme_color": "#fff",       
     "background_color": "#ffffff"
   }
