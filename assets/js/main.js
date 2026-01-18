@@ -392,7 +392,7 @@ $('.courses-actives').slick({
     function mailChimp() {
       $('#mc_embed_signup').find('form').ajaxChimp();
     }
-    mailChimp();
+    //mailChimp();
 
 
 // 12 Pop Up Img
