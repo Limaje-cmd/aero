@@ -405,7 +405,7 @@ $('.courses-actives').slick({
           }
         });
       }
-// 12 Pop Up Video
+/* 12 Pop Up Video
     var popUp = $('.popup-video');
     if(popUp.length){
       popUp.magnificPopup({
@@ -413,11 +413,11 @@ $('.courses-actives').slick({
       });
     }
 
-/* 13. counterUp*/
+ 13. counterUp
     $('.counter').counterUp({
       delay: 10,
       time: 3000
-    });
+    });*/
 
 /* 14. Datepicker */
   $('#datepicker1').datepicker();
